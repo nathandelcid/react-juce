@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Knob } from "@/components/plugin/Knob";
 import { VUMeter } from "@/components/plugin/VUMeter";
 import { PresetSelector } from "@/components/plugin/PresetSelector";
